@@ -1,0 +1,36 @@
+{
+  "question": [
+    "Q1. Quelle est la couleur du banane?",
+    "Q2. Quelle est la couleur du fraise?",
+    "Q3. Quelle est la couleur du soleil?",
+    "Q4. Quelle est la couleur du ciel?"
+  ],
+  "reponses": [
+    2,
+    1,
+    2,
+    3
+  ],
+  "options": [
+      ["rouge",
+    "jaune",
+    "bleue",
+    "noire"
+  ],
+  ["rouge",
+    "jaune",
+    "bleue",
+    "noire"
+  ],
+  ["rouge",
+    "jaune",
+    "bleue",
+    "verte"
+  ],
+  ["rouge",
+    "jaune",
+    "bleue",
+    "noire"
+    ]
+  ]
+}
